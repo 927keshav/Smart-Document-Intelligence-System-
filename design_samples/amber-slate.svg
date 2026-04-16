@@ -1,0 +1,57 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="60" x2="1260" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111722"/>
+      <stop offset="0.55" stop-color="#181F2D"/>
+      <stop offset="1" stop-color="#232B3B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 150) rotate(30) scale(300 220)">
+      <stop stop-color="#FFD46B" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#FFD46B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 140) rotate(150) scale(260 200)">
+      <stop stop-color="#FF9F43" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF9F43" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="primary" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD46B"/>
+      <stop offset="1" stop-color="#FF9F43"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#020814" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <rect width="1400" height="900" fill="url(#glowA)"/>
+  <rect width="1400" height="900" fill="url(#glowB)"/>
+  <text x="88" y="96" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="42" font-weight="700">Amber + Slate</text>
+  <text x="88" y="132" fill="#FFE7B0" font-family="Segoe UI, Arial" font-size="20">Warmer, presentation-friendly, and more visually bold for demos</text>
+  <g filter="url(#shadow)">
+    <rect x="82" y="174" width="1236" height="628" rx="36" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  </g>
+  <text x="126" y="242" fill="#FFD46B" font-family="Segoe UI, Arial" font-size="18" letter-spacing="4">UPLOAD AREA</text>
+  <text x="126" y="292" fill="#FFF9EE" font-family="Segoe UI, Arial" font-size="54" font-weight="700">Warm Demo-Friendly Contrast</text>
+  <text x="126" y="336" fill="#D6D0C6" font-family="Segoe UI, Arial" font-size="22">Great if you want the interface to feel more alive and impressive in a presentation.</text>
+  <rect x="126" y="392" width="560" height="260" rx="28" fill="#1E2431" stroke="#FFCC66" stroke-opacity="0.22" stroke-dasharray="10 10"/>
+  <text x="166" y="462" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="34" font-weight="700">Drop files here</text>
+  <text x="166" y="506" fill="#CFC7B5" font-family="Segoe UI, Arial" font-size="21">Golden action colors add more energy while keeping the dashboard dark and clean.</text>
+  <rect x="166" y="548" width="214" height="64" rx="18" fill="url(#primary)"/>
+  <text x="223" y="589" fill="#1A1410" font-family="Segoe UI, Arial" font-size="24" font-weight="700">Add file</text>
+  <rect x="398" y="548" width="220" height="64" rx="18" fill="#2A3140" stroke="#FFCC66" stroke-opacity="0.18"/>
+  <text x="444" y="589" fill="#FFF7EA" font-family="Segoe UI, Arial" font-size="24" font-weight="700">Process queue</text>
+  <rect x="742" y="392" width="524" height="182" rx="26" fill="#1E2431" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="780" y="446" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="30" font-weight="700">Button / Hover sample</text>
+  <rect x="780" y="480" width="200" height="68" rx="18" fill="url(#primary)"/>
+  <rect x="788" y="472" width="200" height="68" rx="18" fill="url(#primary)" opacity="0.16"/>
+  <text x="842" y="523" fill="#1A1410" font-family="Segoe UI, Arial" font-size="24" font-weight="700">Hover lift</text>
+  <circle cx="1128" cy="514" r="48" fill="#FFB84D" fill-opacity="0.16"/>
+  <circle cx="1128" cy="514" r="32" fill="#FFB84D" fill-opacity="0.22"/>
+  <text x="1098" y="523" fill="#FFF0CE" font-family="Segoe UI, Arial" font-size="18" font-weight="700">Glow</text>
+  <rect x="742" y="596" width="524" height="148" rx="26" fill="#1E2431" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="780" y="644" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Core Shades</text>
+  <rect x="780" y="670" width="84" height="32" rx="10" fill="#FFCC66"/>
+  <rect x="878" y="670" width="84" height="32" rx="10" fill="#FF9F43"/>
+  <rect x="976" y="670" width="84" height="32" rx="10" fill="#1E2431"/>
+  <rect x="1074" y="670" width="84" height="32" rx="10" fill="#FFE7B0"/>
+  <text x="781" y="723" fill="#D8CFBF" font-family="Segoe UI, Arial" font-size="18">#FFCC66   #FF9F43   #1E2431   #FFE7B0</text>
+</svg>

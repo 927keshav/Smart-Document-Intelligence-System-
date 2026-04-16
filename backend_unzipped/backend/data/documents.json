@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "84c54fd2-86b5-4c89-a368-561d81fb359f",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "sample (1).pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: March 30, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: April 05, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: March 12, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: January 01, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1951,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "d58df5e5-4e88-4d7d-b411-6fb35f398d39",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "d8e036dd-ec2c-4232-a261-86ec5cffec93",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-03-30",
+        "detected_deadline": "2026-03-30",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "5ca10e2b-5eb3-44c2-9717-514d5f618a3b",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-05",
+        "detected_deadline": "2026-04-05",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "1d31c26f-d361-4292-a08f-04eb53a57dda",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-03-12",
+        "detected_deadline": "2026-03-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": true
+      },
+      {
+        "id": "4075870d-9db7-425c-b4d7-f0c235ee91c2",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-01-01",
+        "detected_deadline": "2026-01-01",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T15:52:09.124227"
+  },
+  {
+    "id": "8f789ed0-f738-4a7d-a9a1-e44486eb145d",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "sample (1).pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: March 30, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: April 05, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: March 12, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: January 01, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1951,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "819f0f82-1989-4d8f-a6bf-790a95c2b84c",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "413e1612-e871-4156-806c-88d8d3bac515",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-03-30",
+        "detected_deadline": "2026-03-30",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "c4c80505-3f79-41a2-97e8-982bbb894bd4",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-05",
+        "detected_deadline": "2026-04-05",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "1c7cd0ae-7287-4148-8ce0-e54ea9fee9da",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-03-12",
+        "detected_deadline": "2026-03-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": true
+      },
+      {
+        "id": "2348608e-dc72-4076-9aee-e1cdf9bb8711",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-01-01",
+        "detected_deadline": "2026-01-01",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T15:58:36.635517"
+  },
+  {
+    "id": "898bf7f1-9c60-463a-80e3-c7c99135f9ef",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "extractedText": "The deadline for the PPT submission is tomorrow.",
+    "extractedTextLength": 48,
+    "summary": "The deadline for the PPT submission is tomorrow.",
+    "tasks": [
+      {
+        "id": "33bfeaf7-b667-416b-94ab-6113c704c822",
+        "task": "The deadline for the PPT submission is tomorrow",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T15:59:23.239557"
+  },
+  {
+    "id": "2aae068b-3246-4940-89de-dd480c9c2ddb",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "extractedText": "The deadline for the PPT submission is tomorrow.",
+    "extractedTextLength": 48,
+    "summary": "The deadline for the PPT submission is tomorrow.",
+    "tasks": [
+      {
+        "id": "7e12ce6a-c546-4f9c-8a12-c12510ab0712",
+        "task": "The deadline for the PPT submission is tomorrow",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T15:59:50.520326"
+  },
+  {
+    "id": "57da3f09-f7ee-4c5b-b2a4-9f65eca78684",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "extractedText": "The deadline for the PPT submission is tomorrow.",
+    "extractedTextLength": 48,
+    "summary": "The deadline for the PPT submission is tomorrow.",
+    "tasks": [
+      {
+        "id": "c927846e-ae27-424b-8192-292985585cc8",
+        "task": "The deadline for the PPT submission is tomorrow",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:05:35.256774"
+  },
+  {
+    "id": "8d5abfa0-4b60-4161-bb3a-281129c04231",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "extractedText": "The deadline for the PPT submission is tomorrow.",
+    "extractedTextLength": 48,
+    "summary": "The deadline for the PPT submission is tomorrow.",
+    "tasks": [
+      {
+        "id": "4d56ae88-815f-45fe-aa02-f65ac4332c67",
+        "task": "The deadline for the PPT submission is tomorrow",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": true
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:07:26.916303"
+  },
+  {
+    "id": "52fef43f-5111-4e78-859f-c596030b6088",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "voice-note-1775838057814.webm",
+    "extractedText": "The hackathon is to go room.",
+    "extractedTextLength": 28,
+    "summary": "The hackathon is to go room.",
+    "tasks": [
+      {
+        "id": "a0243382-dbeb-4014-a580-cad32e388e25",
+        "task": "The hackathon is to go room",
+        "deadline": "2026-04-12",
+        "detected_deadline": null,
+        "deadline_source": "suggested",
+        "priority": "Suggested Medium",
+        "completed": true
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:21:03.637800"
+  },
+  {
+    "id": "1fada5d2-f252-4e3a-b3e6-a9d501120331",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "WhatsApp Image 2026-04-10 at 22.05.10.jpeg",
+    "extractedText": "HACKATHOW TS\nTOMMMOR OW",
+    "extractedTextLength": 23,
+    "summary": "HACKATHOW TS TOMMMOR OW",
+    "tasks": [
+      {
+        "id": "05e4196a-1527-488e-a32a-012bfbeba78d",
+        "task": "HACKATHOW TS TOMMMOR OW",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:36:14.220132"
+  },
+  {
+    "id": "3f3edb5a-a5f7-4344-b2e8-6fe6b3cc6b02",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775839299812.png",
+    "extractedText": "HA\nIC\nKy Th\ng\nWa\n\nPr\nOng\nn\n\nCR",
+    "extractedTextLength": 30,
+    "summary": "HA IC Ky Th g Wa Pr Ong n CR",
+    "tasks": [
+      {
+        "id": "d1bba1da-b3db-4ba6-a72d-41f8088aa771",
+        "task": "HA IC Ky Th g Wa Pr Ong n CR",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:41:41.290238"
+  },
+  {
+    "id": "ad1402b5-a654-49d9-a26d-8c3a9627bbd2",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775839369496.png",
+    "extractedText": "LS.",
+    "extractedTextLength": 3,
+    "summary": "LS.",
+    "tasks": [],
+    "uploadedAt": "2026-04-10T16:42:50.032978"
+  },
+  {
+    "id": "b0e7beca-cdb1-4630-9c12-2ac85ff47bd3",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775839453478.png",
+    "extractedText": "~\n\nThe. Pf\nS UBMI Ss on\n\nToMeoerrow",
+    "extractedTextLength": 35,
+    "summary": "~ The. Pf S UBMI Ss on ToMeoerrow",
+    "tasks": [
+      {
+        "id": "b8afe498-2429-47c8-a71a-09ea4c37d713",
+        "task": "Pf S UBMI Ss on ToMeoerrow",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:44:14.953507"
+  },
+  {
+    "id": "1f1272b4-50b6-45d5-9145-bbc56b1a6800",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "S2.jpeg",
+    "extractedText": "ane PP\n\nSUBMISSION 1G\n\u201cTOMORROW",
+    "extractedTextLength": 31,
+    "summary": "ane PP SUBMISSION 1G \u201cTOMORROW",
+    "tasks": [
+      {
+        "id": "2935a801-a8fe-4623-93f5-60d6131466cc",
+        "task": "ane PP SUBMISSION 1G \u201cTOMORROW",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:45:39.896377"
+  },
+  {
+    "id": "e4210fe3-ca91-45cf-ac47-242be970702d",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775839805778.png",
+    "extractedText": "ae\n\nA\n\n+4\n\ning\n\nmo\n\nte\n\nMa\n\ni\n\niS\n\na\n\n4\n\nry",
+    "extractedTextLength": 43,
+    "summary": "ae A +4 ing mo te Ma i iS a 4 ry",
+    "tasks": [
+      {
+        "id": "2e695d99-a93d-4639-be36-510f70dbc646",
+        "task": "ry",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:50:10.567328"
+  },
+  {
+    "id": "97eede4e-6966-4fcb-b212-c0ecfc1f4914",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775840249144.png",
+    "extractedText": "te\n\u00a5\ny+ Be\n/ it ey ?\n\\ 7\nA Sasi. -\nSled\nFi ak 3 y \u2018 wes aie\n+ eee A Sree oe \u201chs RS 9) Sa\nedi a les oa ot CRM oe f = nee\u2019 |\nCod ROT SD 2 are eee el eee 0! 6 panes $e mete |\nE ;",
+    "extractedTextLength": 175,
+    "summary": "te \u00a5 y+ Be / it ey ? \\ 7 A Sasi. - Sled Fi ak 3 y \u2018 wes aie + eee A Sree oe \u201chs RS 9) Sa edi a les oa ot CRM oe f = nee\u2019 | Cod ROT SD 2 are eee el eee 0!",
+    "tasks": [
+      {
+        "id": "6969aa8a-3fa3-4dca-b2c9-47ef88d74546",
+        "task": "panes $e mete |",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T16:57:36.194785"
+  },
+  {
+    "id": "cb0ff350-5807-4544-a044-d68e4e0a1bc6",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841089220.png",
+    "extractedText": "The\nPPT\nSUBMISSION\nlg",
+    "extractedTextLength": 21,
+    "summary": "The PPT SUBMISSION lg",
+    "tasks": [
+      {
+        "id": "9e7ac9d0-274d-4820-9de3-7057e553e2e4",
+        "task": "The PPT SUBMISSION lg",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:11:35.862039"
+  },
+  {
+    "id": "bf3244cf-8f6e-43c4-aed6-1a141e45c414",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841129186.png",
+    "extractedText": "PPT\nSubmission",
+    "extractedTextLength": 14,
+    "summary": "PPT Submission",
+    "tasks": [],
+    "uploadedAt": "2026-04-10T17:12:13.378903"
+  },
+  {
+    "id": "74260ed0-74aa-4054-be22-f17e3345d0f5",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841465362.png",
+    "extractedText": "The. PPT submission is tomorrow\u2122 :.",
+    "extractedTextLength": 35,
+    "summary": "The. PPT submission is tomorrow\u2122 :.",
+    "tasks": [
+      {
+        "id": "2c156807-a2fc-4d84-a3a3-b9f541366659",
+        "task": "PPT submission is tomorrow\u2122",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:17:58.429437"
+  },
+  {
+    "id": "e1430260-c7f7-4010-90eb-d89e5c6dac22",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841582390.png",
+    "extractedText": "Va ae I or.",
+    "extractedTextLength": 11,
+    "summary": "Va ae I or.",
+    "tasks": [
+      {
+        "id": "5b2e7292-6636-4634-8526-ecf6e5729de1",
+        "task": "Va ae I or",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:19:54.910558"
+  },
+  {
+    "id": "fb363f17-2534-451b-a689-b8e1e63b90c1",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841619827.png",
+    "extractedText": "E 86pPy CUbMICY! THE. 1S tomorrow.",
+    "extractedTextLength": 34,
+    "summary": "E 86pPy CUbMICY! THE. 1S tomorrow.",
+    "tasks": [
+      {
+        "id": "4d5a913a-9071-457b-bcd4-6baf53ab6eb8",
+        "task": "E 86pPy CUbMICY! THE",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:20:30.021457"
+  },
+  {
+    "id": "7a57370f-0f4b-45e1-b0a2-45f6f296004e",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "S2.jpeg",
+    "extractedText": "The PPT submission is tomorrow.",
+    "extractedTextLength": 31,
+    "summary": "The PPT submission is tomorrow.",
+    "tasks": [
+      {
+        "id": "22450566-9072-42e9-9f04-67dded4900e1",
+        "task": "The PPT submission is tomorrow",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:21:05.966452"
+  },
+  {
+    "id": "d1a4df30-b0ba-4e94-a29e-59fdb5dcebcc",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841735431.png",
+    "extractedText": "i. - ~ Je - SY, peli se LP ale a ; =\nI Pyle oe aa\u00bb AAR OK eg eld oe La Ae ayy) ets = ane Or tin aid ELL ANE ST ANS in BS) 3h ne\nReet arrrctiet:. racy ee aS SabEAR Yee aa) ns puts wie Nee a ary se\n=k apseare eae Ta aed 1 mare r tts ce age Nara take hrs A ae Ke\nK ecto : et ees tw, Re iti See i,\n< a Bares MAS seek Retin wie\n? ETA IA Sc ts On ate RT A\nBO na Sip the i ee ee ee ee ed\n. sisi sy = oyazia, Sher, SHA hRncty I S \u2018 ,",
+    "extractedTextLength": 425,
+    "summary": "i. - ~ Je - SY, peli se LP ale a ; = I Pyle oe aa\u00bb AAR OK eg eld oe La Ae ayy) ets = ane Or tin aid ELL ANE ST ANS in BS) 3h ne Reet arrrctiet:. racy ee aS SabEAR Yee aa) ns puts wie Nee a ary se =k apseare eae Ta aed 1 mare r tts ce age Nara take hrs A ae Ke K ecto : et ees tw, Re iti See i, < a Bares MAS seek Retin wie ?",
+    "tasks": [
+      {
+        "id": "eee028bf-76d9-4b07-9154-1f46a5a9282f",
+        "task": "~ Je - SY, peli se LP ale a ; =",
+        "deadline": "2027-03-10",
+        "detected_deadline": "2027-03-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:22:29.608090"
+  },
+  {
+    "id": "66727b14-50cf-4116-bc73-abed57946109",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841763070.png",
+    "extractedText": "Vd pe e a roMesx fly.",
+    "extractedTextLength": 21,
+    "summary": "Vd pe e a roMesx fly.",
+    "tasks": [
+      {
+        "id": "921ab21f-ef44-4ec0-9feb-a38df0dac4fc",
+        "task": "Vd pe e a roMesx fly",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:22:53.902768"
+  },
+  {
+    "id": "fe279905-2bd6-4b80-b8c3-e856a5d3d7c0",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "filename": "camera-capture-1775841799124.png",
+    "extractedText": "I i\nPeter is titers the Pets) i tee se Mie aiy Beir et age es I . Sat\nq ad = f\nae\na ae\nD eather seR vit T nr: 4 Sate necctihye tce ates x] mentee SAS PCS = Soma\n\u00e9 Pere See 2 Phe en area canyon erie Sate ppt",
+    "extractedTextLength": 206,
+    "summary": "I i Peter is titers the Pets) i tee se Mie aiy Beir et age es I . Sat q ad = f ae a ae D eather seR vit T nr: 4 Sate necctihye tce ates x] mentee SAS PCS = Soma \u00e9 Pere See 2 Phe en area canyon erie Sate ppt",
+    "tasks": [
+      {
+        "id": "0a7eb311-ce8b-4f10-ace1-8a9d8bb2e45a",
+        "task": "I i Peter is titers the Pets) i tee se Mie aiy Beir et age es I",
+        "deadline": "2026-04-15",
+        "detected_deadline": "2026-04-15",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "65584564-f000-45c7-88f8-16833dfe90b9",
+        "task": "Sat q ad = f ae a ae D eather seR vit T nr: 4 Sate necctihye tce ates x] mentee SAS PCS = Soma \u00e9 Pere See 2 Phe en area canyon erie Sate ppt",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:23:32.262746"
+  },
+  {
+    "id": "3e7b89c5-5692-4931-97d6-058efb3b1a90",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "camera-capture-1775842075798.png",
+    "extractedText": "The PPT me Submission a ieee : : A f 24 pte.",
+    "extractedTextLength": 44,
+    "summary": "The PPT me Submission a ieee : : A f 24 pte.",
+    "tasks": [
+      {
+        "id": "0bf59b11-8e08-4e7a-bb55-d563ec43c52d",
+        "task": "The PPT me Submission a ieee : : A f 24 pte",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T17:28:05.234116"
+  },
+  {
+    "id": "e5bd70de-a5c5-4658-8787-d051db6cf66c",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "Maharana Pratap was born to Udai Si.txt",
+    "extractedText": "Today we discussed project planning and dashboard flow.\r\nComplete project report by 2 minutes\r\nReview backend integration tomorrow.\r\nPrepare final presentation slides.",
+    "extractedTextLength": 167,
+    "summary": "Today we discussed project planning and dashboard flow. Complete project report by 2 minutes Review backend integration tomorrow. Prepare final presentation slides.",
+    "tasks": [
+      {
+        "id": "2c827da7-805e-484a-bd01-e4c9761cc63a",
+        "task": "Today we discussed project planning and dashboard flow",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Low",
+        "completed": false
+      },
+      {
+        "id": "0acc278b-2f2a-4f88-b047-5205d99d2632",
+        "task": "Complete project report by 2 minutes",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "6bb31571-7bb9-48d4-9313-c612e241d07e",
+        "task": "Review backend integration tomorrow",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "f7c29df8-119f-4e2d-866a-288f2b9e707a",
+        "task": "Prepare final presentation slides",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T18:05:26.105417"
+  },
+  {
+    "id": "6b755c57-f803-4dac-8085-8c1c25b8dcf8",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "camera-capture-1775847764853.png",
+    "extractedText": "The PPT submission 1S tomorrow.",
+    "extractedTextLength": 31,
+    "summary": "The PPT submission 1S tomorrow.",
+    "tasks": [
+      {
+        "id": "9c83e645-c7c3-4ba9-8dec-467a785363cc",
+        "task": "The PPT submission 1S tomorrow",
+        "deadline": "2026-04-12",
+        "detected_deadline": "2026-04-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T19:03:30.905196"
+  },
+  {
+    "id": "47ede0d4-aea1-4ca7-a638-b29e8943f4f8",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "voice-note-1775847672133.webm",
+    "extractedText": "PPT submission is tomorrow.",
+    "extractedTextLength": 27,
+    "summary": "PPT submission is tomorrow.",
+    "tasks": [
+      {
+        "id": "c5f8edbb-233b-42ce-90b9-e9cc69a48af2",
+        "task": "PPT submission is tomorrow",
+        "deadline": "2026-04-12",
+        "detected_deadline": "2026-04-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T19:03:36.711071"
+  },
+  {
+    "id": "313bf267-6aa5-406c-964b-0cdc7a0fb1c5",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "sample (1).pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: March 30, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: April 05, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: March 12, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: January 01, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1951,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "60acfc10-0695-4fee-a8c5-767ed9e909de",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "60dca1a4-8431-42fe-a925-6073bc4b4e62",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-03-30",
+        "detected_deadline": "2026-03-30",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "4dedc13a-21e2-4b23-8556-38e3494a2aad",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-05",
+        "detected_deadline": "2026-04-05",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "24b26e3d-e29e-4fc1-9172-9857d80e0520",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-03-12",
+        "detected_deadline": "2026-03-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "8d3e5277-a7eb-4b0a-b795-cf3a2d52c5bb",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-01-01",
+        "detected_deadline": "2026-01-01",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T19:55:48.049498"
+  },
+  {
+    "id": "76b92837-ea8c-4916-8343-fc27390acd0b",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "sample (1).pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: March 30, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: April 05, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: March 12, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: January 01, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1951,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "fffc33ba-9323-4cb4-a3ab-796cdfd91b4c",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "896827f7-4680-481a-be8f-1fbc7ddea946",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-03-30",
+        "detected_deadline": "2026-03-30",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "ecad60b1-8a8e-4b78-b7e6-3b8ab63d3dbb",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-05",
+        "detected_deadline": "2026-04-05",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "3f316a76-f25c-43cd-a998-166d9b10a27c",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-03-12",
+        "detected_deadline": "2026-03-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "d65c595d-5313-4fd6-8b80-effdcca0a7a0",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-01-01",
+        "detected_deadline": "2026-01-01",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T20:04:30.515509"
+  },
+  {
+    "id": "61dd8f2f-d754-4075-8325-97f3e1776af8",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "filename": "Maharana Pratap was born to Udai Si.txt",
+    "extractedText": "Today we discussed project planning and dashboard flow.\r\nComplete project report by 2 minutes\r\nReview backend integration tomorrow.\r\nPrepare final presentation slides.",
+    "extractedTextLength": 167,
+    "summary": "Today we discussed project planning and dashboard flow. Complete project report by 2 minutes Review backend integration tomorrow. Prepare final presentation slides.",
+    "tasks": [
+      {
+        "id": "fecfaf6b-a5a4-4a0a-9cc2-7ccd0eab53d5",
+        "task": "Today we discussed project planning and dashboard flow",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Low",
+        "completed": false
+      },
+      {
+        "id": "7ddc18fb-79c2-403c-a1c7-13c21cabce8e",
+        "task": "Complete project report by 2 minutes",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "124f5f50-c38f-46b1-8e6d-5136a668a3eb",
+        "task": "Review backend integration tomorrow",
+        "deadline": "2026-04-12",
+        "detected_deadline": "2026-04-12",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "eb15abc2-1968-4a96-9605-2315c763d43d",
+        "task": "Prepare final presentation slides",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-10T20:04:58.171804"
+  },
+  {
+    "id": "1c98ad25-71e3-41e6-abec-e33175c55ebd",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "filename": "The deadline is today..txt",
+    "extractedText": "The deadline is today. ",
+    "extractedTextLength": 23,
+    "summary": "The deadline is today.",
+    "tasks": [
+      {
+        "id": "f6b7ca32-dceb-43eb-9ad1-eb29e5d16407",
+        "task": "The deadline is today",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T06:41:57.093020"
+  },
+  {
+    "id": "838e8e12-37c4-4fcb-b6bb-1ddca6a1b984",
+    "user_id": "166a2d1d-9b36-416a-9081-36c135e52328",
+    "filename": "Sample New.pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: April 10, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: Ap(cid:396)il 15, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: April 25, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: March 29, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1957,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "7bc6fc7f-057f-4907-91ae-8d137dcfb685",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "32540bbc-71e9-4df3-ae8d-0e0d4f90c7ce",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "66dc9836-cfbe-41b5-b86a-4429e9152ab2",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "117835f5-3088-4591-a7ed-9cb8a0e924c6",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "6408e62a-4566-433e-849c-975987a1fe16",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-03-29",
+        "detected_deadline": "2026-03-29",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T06:56:51.426252"
+  },
+  {
+    "id": "b216499d-e2cf-4aed-ae4e-48bcaa7a21ac",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "Sample New.pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: April 10, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: Ap(cid:396)il 15, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: April 25, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: March 29, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1957,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "708e2ee3-6e91-4b39-b2d0-f2899004be2d",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "cf56d380-8faf-40d6-b5fa-438e81bc2746",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "0af16118-b190-4941-823f-ebd7e6af4a1d",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "e80dc5ba-1fb8-4f25-b25d-6114cc056211",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "9f763905-7da0-4a3f-b141-a299193891e0",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-03-29",
+        "detected_deadline": "2026-03-29",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T07:01:52.360847"
+  },
+  {
+    "id": "3021a79b-f7c7-47e2-988f-69bfd8d8a040",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "Sample New.pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: April 10, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: Ap(cid:396)il 15, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: April 25, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: March 29, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1957,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "79092384-2cd7-4fa7-83f0-42a82a69ecdb",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "5ca17195-202d-47d3-b221-e47ac3b999e8",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "77605861-df11-4535-8307-45276a79ebc8",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "51d7010d-6e6d-4e51-b486-734ad5c37a6d",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "f095ae98-afa7-42d5-b40d-afad8d788677",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": "2026-03-29",
+        "detected_deadline": "2026-03-29",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T07:10:28.397336"
+  },
+  {
+    "id": "33f4aea2-0bb0-4157-a63e-b41a60b8f511",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "Sample New.pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: April 10, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: Ap(cid:396)il 15, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: April 25, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: March 29, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1957,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "ce6aa608-5c16-4f3b-8825-ffe481e6a31c",
+        "task": "This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "af9873aa-930b-4fec-af27-68c61dbe3116",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "4d40d545-e934-45ea-9967-ac110274cf5c",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "d1b41c74-357e-4588-8366-d13daa5f190b",
+        "task": "o",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "26ced67d-91f9-4556-9e73-28db8c7183d2",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "bb20a03c-2852-4e37-8775-7ca9100aa67a",
+        "task": "o",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "e51fca61-606b-4d81-b1f8-0c0a84f4242a",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "4975f3e4-d22e-438f-970d-2dddd5f10093",
+        "task": "o",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "6f6c2f27-9f4d-4755-99cf-f421567c1e6c",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Low",
+        "completed": false
+      },
+      {
+        "id": "12fafe91-e3e6-4c6a-afa1-fdd6ab2f33fd",
+        "task": "o",
+        "deadline": "2026-03-29",
+        "detected_deadline": "2026-03-29",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "74ec1953-be9f-4f51-93d1-608b6b29c892",
+        "task": "Failure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy",
+        "deadline": "2026-04-15",
+        "detected_deadline": "2026-04-15",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T07:16:55.692325"
+  },
+  {
+    "id": "38bfcc5b-3501-44b9-ab57-96f4e26e4edf",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "The deadline is today..txt",
+    "extractedText": "The deadline is today. ",
+    "extractedTextLength": 23,
+    "summary": "The deadline is today.",
+    "tasks": [
+      {
+        "id": "d0618bfe-c632-4ee2-b174-d23e97486660",
+        "task": "The deadline",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T08:32:27.228133"
+  },
+  {
+    "id": "d4ae0190-b0b0-4c64-a183-b5aebcd26ee2",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "The deadline is today..txt",
+    "extractedText": "The deadline is today. ",
+    "extractedTextLength": 23,
+    "summary": "The deadline is today.",
+    "tasks": [
+      {
+        "id": "371a6e98-42ae-40b6-bf36-a5eee8b3479d",
+        "task": "The deadline",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T08:36:52.068997"
+  },
+  {
+    "id": "61644841-5d7d-48ed-bb73-61f2b4329c01",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "The deadline is today..txt",
+    "extractedText": "The deadline is today. ",
+    "extractedTextLength": 23,
+    "summary": "The deadline is today.",
+    "tasks": [
+      {
+        "id": "c4c7beaa-5c36-4a3d-9234-09008864430f",
+        "task": "The deadline",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T08:37:02.788750"
+  },
+  {
+    "id": "2f441f95-caf1-4e7e-9194-b4c6f8545b7e",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "Sample New.pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: April 10, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: Ap(cid:396)il 15, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: April 25, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: March 29, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1957,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "69c8bdf7-392c-4b9e-b971-cb7fa0cf27af",
+        "task": "This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "7fb1a4cd-7000-45c0-867c-723957adf639",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "eb46f2eb-6c1d-47a1-8752-e3ba79b2a92d",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "10e23132-cfc9-463e-b831-699e3721f78f",
+        "task": "o",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "d3a6d7f7-8f72-4657-900a-769ebf388ff8",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "0d2fd448-1c45-42a1-872c-a17195ad7bec",
+        "task": "o",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "09747e4f-65f3-430a-87ee-9d8b0fc7fb9b",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "39cffbd7-ecf7-4640-ba6d-030510688b71",
+        "task": "o",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "185a8abf-a496-4c22-9528-d95c3dc3bdbf",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Low",
+        "completed": false
+      },
+      {
+        "id": "16fd3019-79f0-40b7-bd2c-2598c7cfe7a8",
+        "task": "o",
+        "deadline": "2026-03-29",
+        "detected_deadline": "2026-03-29",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "98a0f922-a673-4e82-a2d3-6828f123eea6",
+        "task": "Failure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy",
+        "deadline": "2026-04-15",
+        "detected_deadline": "2026-04-15",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T08:38:07.097327"
+  },
+  {
+    "id": "aae1e4b8-22f3-4975-ae61-0442997ad3c5",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "Sample New.pdf",
+    "extractedText": "Sample Project Document: HVAC System Upgrade\nProject ID: SR-2026-HVAC-01\nStatus: In Progress\nProject Manager: Abhinav Jain\nExecu(cid:415)ve Summary\nThis project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF\n(Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy\nconsump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all\nzones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes\nthat have previously caused voltage fluctua(cid:415)ons in the local grid.\nTechnical Specifica(cid:415)ons\n\uf0b7 Opera(cid:415)ng Voltage: 415V (High voltage transmission to be maintained for efficiency).\n\uf0b7 Refrigerant: R-134a (Eco-friendly transi(cid:415)on).\n\uf0b7 Motor Type: 3-Phase Induc(cid:415)on Motors with laminated stator cores to minimize eddy current\nlosses.\nAc(cid:415)on Items & Task Extrac(cid:415)on\nThe following tasks must be completed to stay within the fiscal quarter's budget:\n1. System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer\nbank.\no Deadline: April 10, 2026\n2. Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on\ncooling unit.\no Deadline: Ap(cid:396)il 15, 2026\n3. Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before\ninstalla(cid:415)on.\no Deadline: April 25, 2026\n4. Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it\naligns with our new maximum demand projec(cid:415)ons.\no Deadline: March 29, 2026\nRisk Management\nFailure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy\ncosts. Monitoring of the evaporator stages is required to ensure refrigerant expansion is occurring at\nop(cid:415)mal pressure.",
+    "extractedTextLength": 1957,
+    "summary": "Sample Project Document: HVAC System Upgrade Project ID: SR-2026-HVAC-01 Status: In Progress Project Manager: Abhinav Jain Execu(cid:415)ve Summary This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF (Variable Refrigerant Flow) system at the North Campus facility. The primary goal is to reduce energy consump(cid:415)on by $25\\%$ by op(cid:415)mizing the power factor and improving insula(cid:415)on quality across all zones. We are also integra(cid:415)ng so(cid:332) starters for all new compressors to mi(cid:415)gate inrush current spikes that have previously caused voltage fluctua(cid:415)ons in the local grid.",
+    "tasks": [
+      {
+        "id": "755f1d66-00ac-4400-9690-64dbbd8f2cb3",
+        "task": "This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "d484c683-c23b-4d2a-9c65-81698ed696c4",
+        "task": "The following tasks must be completed to stay within the fiscal quarter's budget",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "c637905c-2d02-4489-bb91-596cb182190a",
+        "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "f916e136-f097-4053-a327-1cb6ef8946d7",
+        "task": "o",
+        "deadline": "2026-04-10",
+        "detected_deadline": "2026-04-10",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "3618f2e9-1c44-4703-90ad-229a18c24985",
+        "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "9c3dbd42-fc3a-41ec-9e39-ac3447e46420",
+        "task": "o",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "da4e2a82-3a0a-4261-bab9-ecfbd63081be",
+        "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Medium",
+        "completed": false
+      },
+      {
+        "id": "0a6acc44-31de-43d1-ad77-ddd94a0a2008",
+        "task": "o",
+        "deadline": "2026-04-25",
+        "detected_deadline": "2026-04-25",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "ca60ccd9-009b-4f1c-a4f5-8cb7b4ace753",
+        "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+        "deadline": null,
+        "detected_deadline": null,
+        "deadline_source": "missing",
+        "priority": "Low",
+        "completed": false
+      },
+      {
+        "id": "82f52100-3c65-479d-ad9e-98192318b930",
+        "task": "o",
+        "deadline": "2026-03-29",
+        "detected_deadline": "2026-03-29",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      },
+      {
+        "id": "05732f2d-c0d5-4b28-9fb1-19aebdd82e48",
+        "task": "Failure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy",
+        "deadline": "2026-04-15",
+        "detected_deadline": "2026-04-15",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T08:38:53.172700"
+  },
+  {
+    "id": "17675268-3343-43ab-9456-92b164921eac",
+    "user_id": "9bfd19a2-15c5-4526-b9c5-6169a1ef1280",
+    "filename": "The deadline is today..txt",
+    "extractedText": "The deadline is today. ",
+    "extractedTextLength": 23,
+    "summary": "The deadline is today.",
+    "tasks": [
+      {
+        "id": "e72e304d-3d75-4d64-91a8-ac589e361615",
+        "task": "The deadline",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T08:55:07.213412"
+  },
+  {
+    "id": "ef908950-bc10-4de5-877f-f51ccd3b8fcd",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "The deadline is today..txt",
+    "extractedText": "The deadline is today. ",
+    "extractedTextLength": 23,
+    "summary": "The deadline is today.",
+    "tasks": [
+      {
+        "id": "cdd9b3d8-0d0e-4c27-a8ae-1553980f8fa5",
+        "task": "The deadline",
+        "deadline": "2026-04-11",
+        "detected_deadline": "2026-04-11",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T09:04:21.408579"
+  },
+  {
+    "id": "ac69d537-4956-496c-97e7-c9ffd1b69a89",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "filename": "voice-note-1775898478831.webm",
+    "extractedText": "Hello, please assign my one meeting on Monday, that is 14 of April.",
+    "extractedTextLength": 67,
+    "summary": "Hello, please assign my one meeting on Monday, that is 14 of April.",
+    "tasks": [
+      {
+        "id": "5bc4f492-f1a3-45be-aac1-a493e4fb4c72",
+        "task": "Hello, please assign my one meeting on Monday, that is 14 of April",
+        "deadline": "2026-04-13",
+        "detected_deadline": "2026-04-13",
+        "deadline_source": "detected",
+        "priority": "Detected",
+        "completed": false
+      }
+    ],
+    "uploadedAt": "2026-04-11T09:08:30.009393"
+  }
+]

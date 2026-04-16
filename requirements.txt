@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+python-docx
+dateparser
+faster-whisper
+google-auth
+pillow
+pytesseract

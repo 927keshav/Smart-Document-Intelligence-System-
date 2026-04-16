@@ -1,0 +1,1364 @@
+[
+  {
+    "id": "8a88f5fb-2c05-4441-a82e-289e0cba1dd6",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "d8e036dd-ec2c-4232-a261-86ec5cffec93",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T15:52:09.116993",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "cf84e6ad-e07c-4766-9c77-78b36707216a",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "5ca10e2b-5eb3-44c2-9717-514d5f618a3b",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T15:52:09.116993",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "ecb84427-de9c-45a0-a330-36fe44834303",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "4075870d-9db7-425c-b4d7-f0c235ee91c2",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-01-01",
+    "detected_deadline": "2026-01-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T15:52:09.116993",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "ed01bd40-12aa-44fa-b788-af5f96b34d35",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "413e1612-e871-4156-806c-88d8d3bac515",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T15:58:36.631618",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "c0566c7e-2fa5-46cd-b9de-17756911d097",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "c4c80505-3f79-41a2-97e8-982bbb894bd4",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T15:58:36.631618",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "171ad3d7-9a79-41b4-9e63-fe6a359e9358",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "2348608e-dc72-4076-9aee-e1cdf9bb8711",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-01-01",
+    "detected_deadline": "2026-01-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T15:58:36.631618",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "6857b9d2-28b7-4390-8ccd-f12cc7c1c05a",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "33bfeaf7-b667-416b-94ab-6113c704c822",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "The deadline for the PPT submission is tomorrow",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "created_at": "2026-04-10T15:59:23.232587",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "b88631a4-8d1c-4faf-956f-bef600686824",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "7e12ce6a-c546-4f9c-8a12-c12510ab0712",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "The deadline for the PPT submission is tomorrow",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "created_at": "2026-04-10T15:59:50.515945",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "9b516ebb-6a3a-46db-a660-7b33eb523ff4",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "c927846e-ae27-424b-8192-292985585cc8",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "The deadline for the PPT submission is tomorrow",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "WhatsApp Audio 2026-04-10 at 20.52.20.ogg",
+    "created_at": "2026-04-10T16:05:35.252759",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "d24d0c51-e0b3-4d76-9c03-127b5b9af182",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "task_id": "4d5a913a-9071-457b-bcd4-6baf53ab6eb8",
+    "email": "keshav927yt@gmail.com",
+    "task": "E 86pPy CUbMICY! THE",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "camera-capture-1775841619827.png",
+    "created_at": "2026-04-10T17:20:30.006200",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "fa307383-3871-435b-82bd-b47368913167",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "task_id": "22450566-9072-42e9-9f04-67dded4900e1",
+    "email": "keshav927yt@gmail.com",
+    "task": "The PPT submission is tomorrow",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "S2.jpeg",
+    "created_at": "2026-04-10T17:21:05.959977",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "7b256c24-776e-4463-b38f-af896205d812",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "task_id": "eee028bf-76d9-4b07-9154-1f46a5a9282f",
+    "email": "keshav927yt@gmail.com",
+    "task": "~ Je - SY, peli se LP ale a ; =",
+    "deadline": "2027-03-10",
+    "detected_deadline": "2027-03-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "camera-capture-1775841735431.png",
+    "created_at": "2026-04-10T17:22:29.603012",
+    "reminders_sent": []
+  },
+  {
+    "id": "921a0d85-15b4-4352-a5e2-f95e2626549f",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "task_id": "0a7eb311-ce8b-4f10-ace1-8a9d8bb2e45a",
+    "email": "keshav927yt@gmail.com",
+    "task": "I i Peter is titers the Pets) i tee se Mie aiy Beir et age es I",
+    "deadline": "2026-04-15",
+    "detected_deadline": "2026-04-15",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "camera-capture-1775841799124.png",
+    "created_at": "2026-04-10T17:23:32.254933",
+    "reminders_sent": [
+      "four_day"
+    ]
+  },
+  {
+    "id": "771fac3c-2b6a-40b9-8c95-265d67baaab9",
+    "user_id": "10aba412-fbbc-44f7-a570-e53b6b68802c",
+    "task_id": "65584564-f000-45c7-88f8-16833dfe90b9",
+    "email": "keshav927yt@gmail.com",
+    "task": "Sat q ad = f ae a ae D eather seR vit T nr: 4 Sate necctihye tce ates x] mentee SAS PCS = Soma \u00e9 Pere See 2 Phe en area canyon erie Sate ppt",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "camera-capture-1775841799124.png",
+    "created_at": "2026-04-10T17:23:32.254933",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "ab8af125-f76a-453f-baf4-6f2e24cf5c26",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "0cd64857-1528-4077-b0d1-e21c99bdc15b",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "The PPT submission is tomorrow",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "camera-capture-1775842168167.png",
+    "created_at": "2026-04-10T17:29:40.898554",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "6514ff5d-6fd5-4286-b849-b3ed4a918997",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "35b89544-396f-49a3-b044-9bc6c550352e",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:04:29.315885",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "d8408b82-e6f0-402f-acb7-f0e6a5462cbc",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "efe95f78-a726-4d7e-b6f8-af0ca767e40b",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:04:29.315885",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "13fe3fac-1fe8-4c10-bbd4-ad944c4feea8",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "6ef64e90-36ea-4ef9-aae3-2d721d824d2d",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-04-12",
+    "detected_deadline": "2026-04-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:04:29.315885",
+    "reminders_sent": [
+      "one_day"
+    ]
+  },
+  {
+    "id": "6d991d39-9b07-499c-9932-e6b936069b78",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "ce6c64f4-76ca-4e3c-ba2f-47f07909f16c",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-05-01",
+    "detected_deadline": "2026-05-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:04:29.315885",
+    "reminders_sent": []
+  },
+  {
+    "id": "0bf633d0-1999-49d7-be10-550d2d0124d2",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "0acc278b-2f2a-4f88-b047-5205d99d2632",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Complete project report by 2 minutes",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Maharana Pratap was born to Udai Si.txt",
+    "created_at": "2026-04-10T18:05:26.100784",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "5899f8ad-c400-475a-b70e-5dcca149fb0e",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "6bb31571-7bb9-48d4-9313-c612e241d07e",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Review backend integration tomorrow",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Maharana Pratap was born to Udai Si.txt",
+    "created_at": "2026-04-10T18:05:26.100784",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "2368c6b6-a0ce-4adc-847a-e225db7ebe04",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "62299128-eed0-4172-beb1-a41c54fa2059",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:05:32.012628",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "0a5608ae-c328-45dc-bce6-d7ab592f3c9f",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "4699e8e1-a152-483d-b313-117d559eff4c",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:05:32.012628",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "49ab5238-504b-4429-8a2e-7161bb6d6bc5",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "585f2ddc-ad87-401f-9d41-13cec6bc85f2",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-04-12",
+    "detected_deadline": "2026-04-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:05:32.012628",
+    "reminders_sent": [
+      "one_day"
+    ]
+  },
+  {
+    "id": "6f9d64c6-c5a0-4ed3-b6f7-06ab41a8a88d",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "c3950015-6b20-467a-95c0-4d519183220c",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-05-01",
+    "detected_deadline": "2026-05-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample.pdf",
+    "created_at": "2026-04-10T18:05:32.012628",
+    "reminders_sent": []
+  },
+  {
+    "id": "be7c4faa-c550-4355-a17a-603fee4a85eb",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "e353068b-a67f-451a-a19b-6fb4abf09665",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "B.Tech / M.Tech (Integrated) Programmes-Regulations 2021-Volume-20-Common Courses-Syllabi-Control Copy",
+    "deadline": "2021-04-10",
+    "detected_deadline": "2021-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Energy Efficient Practices Syllabus.pdf",
+    "created_at": "2026-04-10T18:21:04.414782",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "08df27d6-8e3c-4d54-9521-a062332a4169",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "054659d1-a56f-4a20-8958-5ac377df667a",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "OSP 2-OSP 3-OSP",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Energy Efficient Practices Syllabus.pdf",
+    "created_at": "2026-04-10T18:21:04.414782",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "9f89e78c-d917-47b2-8c31-b4bd34b57c21",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "322ed374-fcb7-451e-a7bb-df11fccb4acc",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Bose, B",
+    "deadline": "2027-03-21",
+    "detected_deadline": "2027-03-21",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Energy Efficient Practices Syllabus.pdf",
+    "created_at": "2026-04-10T18:21:04.414782",
+    "reminders_sent": []
+  },
+  {
+    "id": "bb2dff3a-7f99-4569-a64c-2f6b51836211",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "79dbe67e-cdb9-4e8c-893c-c8a6460d7f75",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Malinauskaite, J., Jouhara, H., Ahmad, L., Milani, M., Montorsi, L., & Venturelli, M., \u201cEnergy",
+    "deadline": "2019-04-10",
+    "detected_deadline": "2019-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Energy Efficient Practices Syllabus.pdf",
+    "created_at": "2026-04-10T18:21:04.414782",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "f7048f50-04ca-4ca7-b8b2-cb0b71a25718",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "ba4fe2af-5056-4318-83f8-d77fe24bb019",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Dobrotkova, Z., Lukas, A., Singh, J., \u201cEnergy Efficiency in Industry\", World Bank Group, 2018",
+    "deadline": "2040-04-10",
+    "detected_deadline": "2040-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Energy Efficient Practices Syllabus.pdf",
+    "created_at": "2026-04-10T18:21:04.414782",
+    "reminders_sent": []
+  },
+  {
+    "id": "584cca2c-4c72-4578-a42d-ad89f61f3059",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "9c83e645-c7c3-4ba9-8dec-467a785363cc",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "The PPT submission 1S tomorrow",
+    "deadline": "2026-04-12",
+    "detected_deadline": "2026-04-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "camera-capture-1775847764853.png",
+    "created_at": "2026-04-10T19:03:30.898476",
+    "reminders_sent": [
+      "one_day"
+    ]
+  },
+  {
+    "id": "523c3fa2-2f05-4b25-9543-745c5b46a225",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "c5f8edbb-233b-42ce-90b9-e9cc69a48af2",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "PPT submission is tomorrow",
+    "deadline": "2026-04-12",
+    "detected_deadline": "2026-04-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "voice-note-1775847672133.webm",
+    "created_at": "2026-04-10T19:03:36.707521",
+    "reminders_sent": [
+      "one_day"
+    ]
+  },
+  {
+    "id": "650be71d-9d7c-4d08-95fc-615e307ee577",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "60dca1a4-8431-42fe-a925-6073bc4b4e62",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T19:55:48.046209",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "851b123b-63af-40c3-8bec-46a5b6190db6",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "4dedc13a-21e2-4b23-8556-38e3494a2aad",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T19:55:48.046209",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "2b4d905f-d4e5-4b03-af67-e3c0a134963f",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "24b26e3d-e29e-4fc1-9172-9857d80e0520",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-03-12",
+    "detected_deadline": "2026-03-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T19:55:48.046209",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "e28e66d5-c4c8-48fb-a191-64e1fb2bfdf8",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "8d3e5277-a7eb-4b0a-b795-cf3a2d52c5bb",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-01-01",
+    "detected_deadline": "2026-01-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T19:55:48.046209",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "6450a56d-96ef-4289-b6b3-8276a7afb6de",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "896827f7-4680-481a-be8f-1fbc7ddea946",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T20:04:30.511588",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "c8d57cad-5375-4480-a3fe-601717ef123a",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "ecad60b1-8a8e-4b78-b7e6-3b8ab63d3dbb",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T20:04:30.511588",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "b34c78c9-d920-49d0-a299-7e777de3134f",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "3f316a76-f25c-43cd-a998-166d9b10a27c",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-03-12",
+    "detected_deadline": "2026-03-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T20:04:30.511588",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "dcd90f60-f325-4dbc-9dce-584e34b0486b",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "d65c595d-5313-4fd6-8b80-effdcca0a7a0",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-01-01",
+    "detected_deadline": "2026-01-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-10T20:04:30.511588",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "7d07f488-26c8-4671-b57c-12f4c4b6b6b7",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "7ddc18fb-79c2-403c-a1c7-13c21cabce8e",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Complete project report by 2 minutes",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Maharana Pratap was born to Udai Si.txt",
+    "created_at": "2026-04-10T20:04:58.168256",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "84cc2155-f0d5-47b4-95f6-530ee2af7b37",
+    "user_id": "86368cc3-bc6c-4d57-8135-cdff36bb9dac",
+    "task_id": "124f5f50-c38f-46b1-8e6d-5136a668a3eb",
+    "email": "gargkeshav3445@gmail.com",
+    "task": "Review backend integration tomorrow",
+    "deadline": "2026-04-12",
+    "detected_deadline": "2026-04-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Maharana Pratap was born to Udai Si.txt",
+    "created_at": "2026-04-10T20:04:58.168256",
+    "reminders_sent": [
+      "one_day"
+    ]
+  },
+  {
+    "id": "19a351d5-1ed5-499d-8d01-de1c6462335a",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "745ab7e3-20c2-466b-b652-88befb1d54dc",
+    "email": "aj5176@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-03-30",
+    "detected_deadline": "2026-03-30",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-11T05:52:54.182001",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "9c146cf8-55f4-48dc-836e-64f57f16d9d0",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "1ab358b5-4439-4793-88c8-3147f4d84544",
+    "email": "aj5176@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-05",
+    "detected_deadline": "2026-04-05",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-11T05:52:54.182001",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "ee3b019a-5787-44e1-a607-567bdf8351ac",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "6de28540-465f-4069-b80a-85e01b20c388",
+    "email": "aj5176@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-03-12",
+    "detected_deadline": "2026-03-12",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-11T05:52:54.182001",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "c3dd897a-96de-474b-91f9-3517b3124b2b",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "eaee70e3-5da5-4c88-8ebd-2050e845d14c",
+    "email": "aj5176@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-01-01",
+    "detected_deadline": "2026-01-01",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "sample (1).pdf",
+    "created_at": "2026-04-11T05:52:54.182001",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "2480c4f8-3b98-48ca-b5db-ab165b55e06f",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "bf0452d9-2e82-4776-b29a-14fb0775eb62",
+    "email": "aj5176@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:28:04.721930",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "1de18435-db35-4483-8dbe-7ad9ec76fe87",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "1699311a-3a7f-40a4-9467-27c1e7bfce83",
+    "email": "aj5176@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:28:04.721930",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "f7a17da8-bdbc-4735-9e5d-d073e3f7e8b0",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "bb586583-06ad-40de-b903-815ea8decc37",
+    "email": "aj5176@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:28:04.721930",
+    "reminders_sent": []
+  },
+  {
+    "id": "97edabdb-b513-4f41-8d5f-423b83b71b35",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "3a03d5d7-9894-4b00-825b-9a5a3d0f8461",
+    "email": "aj5176@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:28:04.721930",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "e6d46886-8166-44a2-94b5-f03130ee6b9d",
+    "user_id": "c8b8a567-7dcb-499d-8868-348ffa8a2fb4",
+    "task_id": "f6b7ca32-dceb-43eb-9ad1-eb29e5d16407",
+    "email": "aj5176@gmail.com",
+    "task": "The deadline is today",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "The deadline is today..txt",
+    "created_at": "2026-04-11T06:41:57.086389",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "95be7e6e-b4c1-4c7f-9ee0-4c431868b3e6",
+    "user_id": "166a2d1d-9b36-416a-9081-36c135e52328",
+    "task_id": "32540bbc-71e9-4df3-ae8d-0e0d4f90c7ce",
+    "email": "swapnil@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:56:51.422211",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "7980d0c8-af87-41b4-8267-d1c0d57cfed6",
+    "user_id": "166a2d1d-9b36-416a-9081-36c135e52328",
+    "task_id": "66dc9836-cfbe-41b5-b86a-4429e9152ab2",
+    "email": "swapnil@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:56:51.422211",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "327bbc6c-58d5-420c-b81f-984c67e9fe03",
+    "user_id": "166a2d1d-9b36-416a-9081-36c135e52328",
+    "task_id": "117835f5-3088-4591-a7ed-9cb8a0e924c6",
+    "email": "swapnil@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:56:51.422211",
+    "reminders_sent": []
+  },
+  {
+    "id": "796bb9b4-3ebf-40e9-b6f4-2672c13626a6",
+    "user_id": "166a2d1d-9b36-416a-9081-36c135e52328",
+    "task_id": "6408e62a-4566-433e-849c-975987a1fe16",
+    "email": "swapnil@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T06:56:51.422211",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "a8460bdf-b20a-4bde-ac3b-a16271b1eee6",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "cf56d380-8faf-40d6-b5fa-438e81bc2746",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:01:52.353258",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "ae9f3f6f-8575-4672-b7cf-4a181a1a73a7",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "0af16118-b190-4941-823f-ebd7e6af4a1d",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:01:52.353258",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "2b5f254e-6afe-4648-a475-d27176342148",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "e80dc5ba-1fb8-4f25-b25d-6114cc056211",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:01:52.353258",
+    "reminders_sent": []
+  },
+  {
+    "id": "0a9ff37a-4563-4677-a13e-945c6f9ea6b8",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "9f763905-7da0-4a3f-b141-a299193891e0",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:01:52.353258",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "e021cf3f-2bcd-4bac-9251-83cfdf00826c",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "5ca17195-202d-47d3-b221-e47ac3b999e8",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "System Audit: Perform a full audit of current eddy current losses in the exis(cid:415)ng transformer",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:10:28.392675",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "6cb109c1-14bf-4dd4-ae6b-54cfda7ae652",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "77605861-df11-4535-8307-45276a79ebc8",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Procurement: Order the ammonia-water absorbent pairs for the secondary absorp(cid:415)on",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:10:28.392675",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "94d8a6aa-2079-470a-ac05-b5cb07bad31f",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "51d7010d-6e6d-4e51-b486-734ad5c37a6d",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Lamina(cid:415)on Check: Ensure all new transformer cores are properly laminated before",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:10:28.392675",
+    "reminders_sent": []
+  },
+  {
+    "id": "16a1e1b7-d6b2-40d4-a0a6-c1c4e7d2268b",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "f095ae98-afa7-42d5-b40d-afad8d788677",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Contract Review: Re-nego(cid:415)ate the Contract Demand with the u(cid:415)lity provider to ensure it",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:10:28.392675",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "54f54f24-d2e6-4768-aed1-0dccfbc5a73e",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "ce6aa608-5c16-4f3b-8825-ffe481e6a31c",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:16:55.686600",
+    "reminders_sent": []
+  },
+  {
+    "id": "9daba229-f5fe-479d-8a67-12c9619ac582",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "d1b41c74-357e-4588-8366-d13daa5f190b",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:16:55.686600",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "61bb0f13-c5f7-4fe2-82b9-36284a2b325f",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "bb20a03c-2852-4e37-8775-7ca9100aa67a",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:16:55.686600",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "9d5c61a1-7a97-4834-baec-941c5351d299",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "4975f3e4-d22e-438f-970d-2dddd5f10093",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:16:55.686600",
+    "reminders_sent": []
+  },
+  {
+    "id": "fe9f065d-3999-4d9c-96eb-8efdd0edab50",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "12fafe91-e3e6-4c6a-afa1-fdd6ab2f33fd",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:16:55.686600",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "6124645f-a573-4f4f-97a8-f2ea28f3f1ad",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "74ec1953-be9f-4f51-93d1-608b6b29c892",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Failure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy",
+    "deadline": "2026-04-15",
+    "detected_deadline": "2026-04-15",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T07:16:55.686600",
+    "reminders_sent": [
+      "four_day"
+    ]
+  },
+  {
+    "id": "95a3ca6a-2d2e-43c4-95f0-31054164cf0e",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "d0618bfe-c632-4ee2-b174-d23e97486660",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "The deadline",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "The deadline is today..txt",
+    "created_at": "2026-04-11T08:32:27.220246",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "b6015f47-54b2-441f-a4cc-fdbedfee4c41",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "371a6e98-42ae-40b6-bf36-a5eee8b3479d",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "The deadline",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "The deadline is today..txt",
+    "created_at": "2026-04-11T08:36:45.263678",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "9bc93592-7690-4811-9039-0b3d3d27a720",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "c4c7beaa-5c36-4a3d-9234-09008864430f",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "The deadline",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "The deadline is today..txt",
+    "created_at": "2026-04-11T08:36:56.965799",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "b9a3b188-3259-4877-bd64-9576338c98ae",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "69c8bdf7-392c-4b9e-b971-cb7fa0cf27af",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:01.705545",
+    "reminders_sent": []
+  },
+  {
+    "id": "a4341243-e64f-4e6e-8729-154371890b4e",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "10e23132-cfc9-463e-b831-699e3721f78f",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:01.705545",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "59738eb2-665c-4b98-bdab-94f30e910427",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "0d2fd448-1c45-42a1-872c-a17195ad7bec",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:01.705545",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "9e6a1ee1-f141-408b-90ce-1dedaf1f09f6",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "39cffbd7-ecf7-4640-ba6d-030510688b71",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:01.705545",
+    "reminders_sent": []
+  },
+  {
+    "id": "b294211e-2f5f-4f13-89d0-562ae9ea3c83",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "16fd3019-79f0-40b7-bd2c-2598c7cfe7a8",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:01.705545",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "87094e84-5a85-483c-ac93-cb116b37c073",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "98a0f922-a673-4e82-a2d3-6828f123eea6",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Failure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy",
+    "deadline": "2026-04-15",
+    "detected_deadline": "2026-04-15",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:01.705545",
+    "reminders_sent": [
+      "four_day"
+    ]
+  },
+  {
+    "id": "9063d457-9b3c-490b-92bd-d9fabb1b4b3a",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "755f1d66-00ac-4400-9690-64dbbd8f2cb3",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "This project involves the transi(cid:415)on from tradi(cid:415)onal vapor compression units to a high-efficiency VRF",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:47.903040",
+    "reminders_sent": []
+  },
+  {
+    "id": "053360a6-d255-4d81-ab54-3b3f48d73eaa",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "f916e136-f097-4053-a327-1cb6ef8946d7",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-10",
+    "detected_deadline": "2026-04-10",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:47.903040",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "a3371a18-18bd-41aa-93a4-956cb011bea8",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "9c3dbd42-fc3a-41ec-9e39-ac3447e46420",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:47.903040",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "5fc392c4-0659-44a0-8f2d-1d7ca96524c7",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "0a6acc44-31de-43d1-ad77-ddd94a0a2008",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-04-25",
+    "detected_deadline": "2026-04-25",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:47.903040",
+    "reminders_sent": []
+  },
+  {
+    "id": "633c0991-d038-4ffb-8ea8-cb491cdda2f4",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "82f52100-3c65-479d-ad9e-98192318b930",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "o",
+    "deadline": "2026-03-29",
+    "detected_deadline": "2026-03-29",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:47.903040",
+    "reminders_sent": [
+      "overdue"
+    ]
+  },
+  {
+    "id": "0fdbdaf8-da8b-4e6d-ba3e-751bc7d85050",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "05732f2d-c0d5-4b28-9fb1-19aebdd82e48",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Failure to meet the insula(cid:415)on quality standards will result in a $15\\%$ increase in projected energy",
+    "deadline": "2026-04-15",
+    "detected_deadline": "2026-04-15",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "Sample New.pdf",
+    "created_at": "2026-04-11T08:38:47.903040",
+    "reminders_sent": [
+      "four_day"
+    ]
+  },
+  {
+    "id": "27dfbdf0-9366-4832-9dd0-0c67b76a0153",
+    "user_id": "9bfd19a2-15c5-4526-b9c5-6169a1ef1280",
+    "task_id": "e72e304d-3d75-4d64-91a8-ac589e361615",
+    "email": "discordkeid1234@gmail.com",
+    "task": "The deadline",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "The deadline is today..txt",
+    "created_at": "2026-04-11T08:55:01.252702",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "c495a99c-fc32-4aaa-818f-eeaedbed7225",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "cdd9b3d8-0d0e-4c27-a8ae-1553980f8fa5",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "The deadline",
+    "deadline": "2026-04-11",
+    "detected_deadline": "2026-04-11",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "The deadline is today..txt",
+    "created_at": "2026-04-11T09:04:14.931239",
+    "reminders_sent": [
+      "same_day"
+    ]
+  },
+  {
+    "id": "f3c7ed60-10bb-47d9-a903-f7e4146c7f90",
+    "user_id": "ff179315-6b06-42d0-a51a-65cb5db1bba7",
+    "task_id": "5bc4f492-f1a3-45be-aac1-a493e4fb4c72",
+    "email": "abhinavjainajar@gmail.com",
+    "task": "Hello, please assign my one meeting on Monday, that is 14 of April",
+    "deadline": "2026-04-13",
+    "detected_deadline": "2026-04-13",
+    "priority": "Detected",
+    "source": "analyze",
+    "filename": "voice-note-1775898478831.webm",
+    "created_at": "2026-04-11T09:08:29.999570",
+    "reminders_sent": [
+      "two_day"
+    ]
+  }
+]
