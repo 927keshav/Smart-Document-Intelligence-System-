@@ -1,6 +1,16 @@
-# SGU - Smart Document Intelligence Workspace
+# Smart Document Intelligence Workspace
 
-SGU is a document analysis project built around a FastAPI backend and two frontend variants:
+AI-powered document intelligence platform for intelligent document analysis.
+
+## Key Features
+- 📄 Document Upload & Management
+- 📝 AI-Powered Summarization
+- ✅ Task Extraction
+- 📅 Deadline Detection
+- 🔒 Secure User Authentication
+- ⚡ FastAPI Backend
+
+Smart Document Intelligence Workspace is a document analysis project built around a FastAPI backend and two frontend variants:
 
 - a React + Vite frontend in `src/`
 - a static frontend served directly by the backend in `backend_unzipped/frontend/`
